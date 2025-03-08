@@ -2,7 +2,7 @@ import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 import re
 
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm", exclude=["parser", "ner"])
 
 def preprocess_text(text):
     # Remove sensitive information
