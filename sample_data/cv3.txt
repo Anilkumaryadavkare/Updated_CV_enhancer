@@ -1,0 +1,138 @@
+	
+
+
+
+
+Anil Kare
+
+O9 SOLUTION ARCHITECT
+
+
+
+
+	
+ 	7659858816
+	
+ 	kanilkumark05@gmail.com
+	
+ 	Hyderabad, India 
+	
+  linkedin.com/in/anil5566
+
+
+	
+	
+
+
+ABOUT ME
+
+Dynamic techno-functional professional with over 6 years of experience in delivering comprehensive supply chain solutions across diverse industries like CPG & Retail. Results-oriented Supply Chain Architect in designing, implementing, and optimizing complex supply chain solutions. Proven expertise in leveraging o9's advanced capabilities to drive significant improvements in demand planning, supply planning. Adept at collaborating with cross-functional teams to deliver innovative solutions that align with business objectives. Creative strong leadership with analytical skills, integrity, and adaptability.
+Passionate about continuous improvement and committed to delivering exceptional results.
+
+
+
+TECHNICAL SKILLS
+SCM Tools: o9 Supply Planning/MEIO, SAP HCM, Blue Yonder 
+BI/Front End Tools: Tableau, Power BI, Google Analytics
+Databases: MS SQL Server, PostgreSQL, Snowflake, Oracle 11g, MongoDB
+Cloud Services: 
+Amazon Web Services, Google Cloud Platform and Azure
+Programming Languages: Python, R, SQL, Shell scripting
+
+
+
+
+CORE SKILLS
+Solution Designing
+Supply Planning & Demand Planning
+Inventory Optimization
+Digital Supply Chain
+
+
+
+PROJECT SKILLS
+Leadership
+Project management
+Communication Skill
+Stakeholder Management
+Analytical Skill
+
+
+
+	WORK EXPERIENCE
+
+Solution Architect
+Algoleap Technologies |Hyderabad, IN | Feb 2024 - Present
+
+•	Served as a techno-functional advisor, designing customized supply chain solutions, improving client operations and satisfaction.
+•	Led the Distribution Planning module implementation, from requirements gathering to solution design and deployment, driving efficiency and profitability.
+•	Developed a strategic end-to-end testing framework, ensuring seamless validation and high-quality solution delivery.
+•	Partnered with business users and directors to define functional and technical requirements, document data models, and construct complex datasets for enhanced planning accuracy.
+•	Collaborated with Business users and directors to create clear functional & technical designs, document data requirements, and construct complex datasets.
+Key Results:
+•	Designed and implemented a custom Allocation & Replenishment solution tailored for brewery operations, optimizing raw material (e.g., hops, malt) distribution and packaging SKU replenishment across regional warehouses.
+•	Conducted 15+ training sessions for end-users and super-users, strengthening knowledge within customer success teams.
+•	Led major supply chain projects, including Distribution Planning implementation, WSNP & MRP touchless implementation across five regions.
+
+Senior IT Logistics o9 Consultant
+Tractor Supply Company | Tennessee, USA | Oct 2022 - Aug 2023
+
+•	Spearheaded the Phase 1.5 implementation of o9 Solutions, collaborating with business users to document AS-IS and TO-BE processes, ensuring smooth transition and system alignment.
+•	Acted as a key liaison between internal teams and o9 business consultants, proactively following up on critical queries to streamline data gathering and accelerate implementation timelines.
+•	Developed and optimized SQL queries in Snowflake, significantly improving data extraction efficiency for analytics and decision-making.
+•	Designed and maintained Azure SQL databases, leading migration efforts from Microsoft SQL Server to Azure SQL, improving scalability and reducing maintenance overhead.
+Key Results:
+•	Successfully saved 4+ hours per sprint by developing optimized SQL queries for data extraction.
+
+•	Played a pivotal role in the successful rollout of o9 Phase 1.5, ensuring seamless integration and data accuracy
+
+
+Techno Functional Analyst
+Gordon Food Service| Michigan, USA | Jan 2022 - Sep 2022
+
+•	Managed 300+ daily and 200+ weekly AutoSys jobs, ensuring seamless execution of forecasting and Inventory Optimization (IO) replenishment processes, including shell script updates for enhanced reliability.
+•	Developed complex SQL and IBPL queries to identify, rectify, and validate data issues within the demand planning system, ensuring data accuracy.
+•	Led transition from JDA (Blue Yonder) to o9 Solutions, assisting business users in data mapping, preparation, and integration into o9.
+•	Conducted training and user enablement sessions, explaining o9’s value proposition and addressing user concerns, facilitating a smooth adoption of o9 Solutions.
+Key Results
+•	Ensured error-free execution of 500+ critical AutoSys jobs, preventing disruptions in forecasting and replenishment.
+•	Successfully supported the JDA-to-o9 migration, improving data accuracy and business team confidence in o9’s capabilities.
+
+Functional Consultant- Strategic Technology
+o9 Solutions | Dallas, USA | Jun 2021 – Dec 2021
+
+•	Worked within the Customer Success team on internal Integrated Business Planning (IBP) and Sales & Operations Planning (S&OP) initiatives, driving process improvements and performance management.
+•	Handled 20+ data requests per hour, leveraging o9’s advanced analytics and reporting to support client decision-making.
+•	Provided 24/7 on-call support, training developers and users across Europe, China, and Asia-Pacific, ensuring a smooth IT division transition.
+•	Designed, developed, and maintained database solutions for financial modules within WL Gore, conducting unit testing, test plan creation, and adherence to coding standards.
+Key Results:
+•	Achieved over 95% reliability in SAP APO system performance.
+•	Successfully streamlined o9 implementation for WL Gore, improving user adoption and process efficiency.
+•	Achieved 95% FTR for global access changes, reducing rework and support issues.
+•	Created detailed documentation that improved cross-team knowledge sharing and onboarding.
+
+
+
+Software Engineer
+Accenture | Hyderabad, IN | Jan 2022 - Sep 2022
+
+•	Developed custom T-codes and sales order components, enabling rapid item entry and reducing order processing time by 90%.
+•	Automated invoicing and report generation in SAP ARIBA, minimizing manual effort by 80% and eliminating billing errors for 400+ contracts monthly.
+•	Implemented a custom interface for inventory management, automating Lot allocation and reducing manual workload for managers.
+•	Optimized payroll ticket resolution for Shell Operations, improving efficiency by 50% through enhanced issue-tracking and automation.
+Key Results:
+•	Reduced capital charges and OPERA increased savings by 40%, driving higher profitability and client satisfaction.
+•	Successfully generated 400+ invoices monthly, ensuring accurate billing with zero cost-impacting errors.
+
+
+EDUCATION
+
+Master’s in Supply Chain Management |The University of Texas at Dallas                                  Aug 2019 – May 2021
+
+
+
+
+
+
+-
+
