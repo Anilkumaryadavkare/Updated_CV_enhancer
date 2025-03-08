@@ -1,20 +1,10 @@
-# Use Python 3.9 as the base image
-FROM python:3.9
+FROM python:3.9-slim
 
-# Set the working directory
 WORKDIR /app
 
-# Copy all the files from your repo to the container
-COPY . .
+COPY . /app
 
-# Install the Python dependencies
-RUN pip install --no-cache-dir -r requirements.txt
-
-# Download the spaCy model during build
+RUN pip install -r requirements.txt
 RUN python -m spacy download en_core_web_sm
 
-# Expose port 8000 for the application
-EXPOSE 8000
-
-# Run the application using app.py (modify if needed)
-CMD ["python", "app.py"]
+CMD ["gunicorn", "-b", "0.0.0.0:8000", "app:app"]
