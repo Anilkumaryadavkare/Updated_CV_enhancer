@@ -3,8 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import re
 
 # Replace the spacy.load() line with
-nlp = spacy.load("en_core_web_sm", exclude=["parser", "ner", "lemmatizer"])
-
+nlp = spacy.load("/home/site/wwwroot/en_core_web_sm", exclude=["parser", "ner"])
 def preprocess_text(text):
     # Remove sensitive information
     text = re.sub(r'\b\w*@\w*\.\w*\b', '', text)  # emails
