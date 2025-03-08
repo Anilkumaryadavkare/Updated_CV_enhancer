@@ -1,7 +1,7 @@
+import os
 from flask import Flask, request, jsonify
 from main import main as analyze_cvs
 import tempfile
-import os
 
 app = Flask(__name__)
 
@@ -30,4 +30,5 @@ def analyze():
     return jsonify(results)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    port = int(os.environ.get("PORT", 8000))  # <-- Fixes the port issue
+    app.run(host='0.0.0.0', port=port)
