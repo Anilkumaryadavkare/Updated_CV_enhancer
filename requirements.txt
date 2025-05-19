@@ -5,3 +5,11 @@ python-docx==0.8.11
 scikit-learn==1.4.0
 numpy==1.26.4
 spacy==3.7.4
+fastapi
+uvicorn
+python-multipart
+jinja2
+weasyprint[visual]
+pydantic-settings==2.2.1
+python-dotenv==1.0.0
+openai==1.12.0

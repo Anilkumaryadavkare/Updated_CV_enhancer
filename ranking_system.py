@@ -1,10 +1,18 @@
-from sklearn.feature_extraction.text import TfidfVectorizer  # Add this import
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
-def rank_candidates(job_desc, cvs, cv_texts):
+def rank_candidates(job_desc: str, cvs: list, cv_texts: list) -> list:
+    """Rank candidates based on job description similarity"""
+    if not job_desc.strip():
+        return [(cv, 0.0) for cv in cvs]
+    
     vectorizer = TfidfVectorizer(stop_words='english')
-    vectors = vectorizer.fit_transform([job_desc] + cv_texts)
+    
+    try:
+        vectors = vectorizer.fit_transform([job_desc] + cv_texts)
+    except ValueError:
+        return [(cv, 0.0) for cv in cvs]
     
     job_vector = vectors[0]
     cv_vectors = vectors[1:]
