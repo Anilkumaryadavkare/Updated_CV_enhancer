@@ -1,67 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 1cm;
-            color: #2c3e50;
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 30px;
-            font-size: 16px;
-            line-height: 1.5;
-        }
-        h2 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 5px;
-            margin-top: 30px;
-        }
-        .section { margin-bottom: 20px; }
-        ul { list-style-type: disc; padding-left: 20px; }
-        li { margin: 5px 0; }
-    </style>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 1cm; color: #2c3e50; }
+    h1, h2, h3 { color: #2c3e50; }
+    ul { padding-left: 20px; }
+    li { margin: 4px 0; }
+    table { border-collapse: collapse; }
+    table, th, td { border: 1px solid #c0c0c0; padding: 4px; }
+  </style>
 </head>
 <body>
-
-    <!-- CONTACT -->
-    <div class="header">
-        {{ sections.contact|join('<br>')|safe }}
-    </div>
-
-    <!-- SUMMARY -->
-    {% if sections.summary %}
-    <div class="section">
-        <h2>Summary</h2>
-        <p>{{ sections.summary }}</p>
-    </div>
-    {% endif %}
-
-    <!-- EXPERIENCE -->
-    {% if sections.experience %}
-    <div class="section">
-        <h2>Experience</h2>
-        {{ sections.experience|safe }}
-    </div>
-    {% endif %}
-
-    <!-- SKILLS -->
-    {% if sections.skills %}
-    <div class="section">
-        <h2>Skills</h2>
-        {{ sections.skills|safe }}
-    </div>
-    {% endif %}
-
-    <!-- EDUCATION -->
-    {% if sections.education %}
-    <div class="section">
-        <h2>Education</h2>
-        {{ sections.education|safe }}
-    </div>
-    {% endif %}
-
+  {{ content | safe }}
 </body>
 </html>
