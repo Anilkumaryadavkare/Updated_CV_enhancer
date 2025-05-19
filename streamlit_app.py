@@ -30,7 +30,7 @@ if "resume" in st.session_state:
     st.session_state["resume"]["raw"] = edited
 
     template_id = st.selectbox("Choose template",
-                               ["clean-blue", "modern-grey"])
+                               ["clean-blue", "modern-sleek"])
 
 if st.button("Generate PDF"):
     with st.spinner("Generating PDF..."):
